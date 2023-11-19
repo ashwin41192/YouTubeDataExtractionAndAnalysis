@@ -9,7 +9,7 @@ One-stop solution to extract & analyze information related to your YouTube chann
 **5. Query the SQL data warehouse:** SQL queries are run to retrieve data for the channels based on user input. We use the connector 'mysql.connector' to establish a connection with the SQL database.  
 **6. Display data in the Streamlit app:** Finally, the retrieved data is displayed in the Streamlit app. 
 ## **Further Analysis**  
-**1. Visualizations:** Streamlit's data visualization features to create charts and graphs to help users analyze the data
-**2. Sentiment Analysis on Comments:**
-**3. NLP Techniques to identify comment themes in comments (Cluster Analysis)**
-**4. Word Clouds on Comments:**
+**1. Visualizations:** Streamlit's data visualization features to create charts and graphs to help users analyze the data  
+**2. Sentiment Analysis on Comments:**  
+**3. NLP Techniques to identify comment themes in comments (Cluster Analysis)**  
+**4. Word Clouds on Comments:**  
