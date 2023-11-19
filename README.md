@@ -1,4 +1,4 @@
-# YouTubeDataExtractionAndAnalysis
+# YouTube Data Extraction And Analysis
 ## **Overview**  
 One-stop solution to extract & analyze information related to your YouTube channel, videos and comments. With a channel ID, this tool will extract data at channel, video & comment level and gives you answers to some common queries basis the data extracted. The data is first stored in semi-structured format in MongoDB, then transformed & loaded into MySQL for easy analysis.  
 ## **Approach**  
